@@ -3,8 +3,6 @@
 The Game Theory Explorer (by [Mark Egesdal](https://github.com/gambitproject/gte), [Alfonso](https://github.com/alfongj/gte) and [Rahul](https://github.com/rahulsavani/gte)) is a graphical user interface for interactive construction and analysis of small to medium games. The GTE is part of the [Gambit Project](http://www.gambit-project.org) - a
 library of game theory software. This version of GTE is designed to be portable across plarforms and runs on Linux and Windows (Mac OS X in progress). The software consists of a Web-Application-Client for the User-Interface (written in ActionScript) and a Web-Application-Server (Jetty) to process computational tasks such as calculation and enumeration of Nash-Equilibria.
 
-![GTE Mainwindow](https://github.com/martinprause/GTE-Game-Theory-Explorer/gte_small.png)
-
 ## Preface ##
 
 GTE can be installed in three different ways:
